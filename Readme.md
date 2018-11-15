@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BarCheckAndDropDownButton.cs](./CS/BarCheckAndDropDownButton.cs) (VB: [BarCheckAndDropDownButton.vb](./VB/BarCheckAndDropDownButton.vb))
+* [MyRibbonControl.cs](./CS/MyRibbonControl.cs) (VB: [MyRibbonControl.vb](./VB/MyRibbonControl.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # A custom toolbar button with Checked and DropDown styles
 
 
