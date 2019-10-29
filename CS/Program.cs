@@ -10,12 +10,10 @@ namespace CustomCheckAndDropDownButton {
         [STAThread]
         static void Main() {
             DevExpress.UserSkins.BonusSkins.Register();
-            DevExpress.LookAndFeel.UserLookAndFeel.Default.SkinName = "Office 2007 Blue";
-            ItemRegistrationHelper.RegisterCustomItems();
-
+            DevExpress.LookAndFeel.UserLookAndFeel.Default.SkinName = "The Bezier";
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new RibbonForm());
+            Application.Run(new RibbonForm1());
         }
     }
 }
