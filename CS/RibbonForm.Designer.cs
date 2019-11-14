@@ -38,8 +38,7 @@ namespace CustomCheckAndDropDownButton {
             // 
             this.ribbonControl1.ExpandCollapseItem.Id = 3;
             this.ribbonControl1.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
-            this.ribbonControl1.ExpandCollapseItem,
-            this.ribbonControl1.SearchEditItem,
+            this.ribbonControl1.ExpandCollapseItem,       
             this.barButtonItem2,
             this.barButtonItem3});
             this.ribbonControl1.Location = new System.Drawing.Point(0, 0);
