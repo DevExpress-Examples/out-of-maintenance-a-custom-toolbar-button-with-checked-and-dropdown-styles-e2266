@@ -37,7 +37,7 @@
 			' ribbonControl1
 			' 
 			Me.ribbonControl1.ExpandCollapseItem.Id = 3
-			Me.ribbonControl1.Items.AddRange(New DevExpress.XtraBars.BarItem() { Me.ribbonControl1.ExpandCollapseItem, Me.ribbonControl1.SearchEditItem, Me.barButtonItem2, Me.barButtonItem3})
+			Me.ribbonControl1.Items.AddRange(New DevExpress.XtraBars.BarItem() { Me.ribbonControl1.ExpandCollapseItem, Me.barButtonItem2, Me.barButtonItem3})
 			Me.ribbonControl1.Location = New System.Drawing.Point(0, 0)
 			Me.ribbonControl1.MaxItemId = 5
 			Me.ribbonControl1.Name = "ribbonControl1"
